@@ -1,6 +1,6 @@
 # Messenger Heart Reactions
 
-Use different heart reactions on Facebook Messenger. Specifically, "heart-eyes", "heart", and "growing heart". The script prompts the user for an integer from 1-3 corresponding to these whenever trying to react with the heart emoji to a message.
+Use different heart reactions on Facebook Messenger. Specifically, "heart-eyes", "red heart", and "growing heart". The script prompts the user for an integer from 1-3 corresponding to these whenever trying to react with the heart emoji to a message.
 
 ## How
 
