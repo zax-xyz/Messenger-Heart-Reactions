@@ -10,6 +10,16 @@ When reacting to a message, the browser sends an XHR request to the Messenger Gr
 
 Because I like flexing on people.
 
+## Requirements
+Installation of this requires a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/), or a browser that natively supports userscripts.
+
+Tampermonkey is available for most major browsers including [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) and [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
+
+## Installation
+After installing Tampermonkey (see above) or another userscript manager, get the script [here](https://raw.githubusercontent.com/zaxutic/USYD-Timetable-Colours/master/index.user.js).
+
+Most userscript managers should recognise the file as a userscript and open the installation page for you, otherwise you will have to manually add it into your manager.
+
 ## Screenshots
 
 ### Desktop (Web)
