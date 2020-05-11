@@ -9,3 +9,15 @@ When reacting to a message, the browser sends an XHR request to the Messenger Gr
 ## Why
 
 Because I like flexing on people.
+
+## Screenshots
+
+### Desktop (Web)
+
+![Example of the 3 different reactions on the Messenger website](src/desktop.png)
+
+### Mobile
+
+Why is it different on mobile (the other two are the same as desktop)
+
+![The 'growing heart' reaction on mobile](src/mobile.jpg)
