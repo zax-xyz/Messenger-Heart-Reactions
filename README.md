@@ -18,6 +18,6 @@ Because I like flexing on people.
 
 ### Mobile
 
-Why is it different on mobile (the other two are the same as desktop)
+Why are they different on mobile (heart-eyes is the same as desktop)
 
 ![The 'growing heart' reaction on mobile](img/mobile.jpg)
