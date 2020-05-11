@@ -14,10 +14,10 @@ Because I like flexing on people.
 
 ### Desktop (Web)
 
-![Example of the 3 different reactions on the Messenger website](src/desktop.png)
+![Example of the 3 different reactions on the Messenger website](img/desktop.png)
 
 ### Mobile
 
 Why is it different on mobile (the other two are the same as desktop)
 
-![The 'growing heart' reaction on mobile](src/mobile.jpg)
+![The 'growing heart' reaction on mobile](img/mobile.jpg)
