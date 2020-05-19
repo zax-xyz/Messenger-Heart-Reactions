@@ -42,6 +42,7 @@
       }
     }
 
+    // Send through the modified request
     oldOpen.apply(this, arguments);
   }
 })();
