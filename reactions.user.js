@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Use different heart reactions on Facebook Messenger
 // @author       Michael Vo
-// @match        https://www.messenger.com/t/*
+// @match        https://www.messenger.com/*
 // @grant        none
 // ==/UserScript==
 
